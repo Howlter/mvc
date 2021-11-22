@@ -49,4 +49,7 @@ class LoginController extends Controller {
             'flash' => $flash
         ]);
     }
+    public function signupAction(){
+        
+    }
 }
